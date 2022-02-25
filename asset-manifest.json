@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ur-mom/static/css/main.03cdc20c.css",
+    "main.js": "/ur-mom/static/js/main.64ead28a.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/ur-mom/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/ur-mom/index.html",
+    "main.03cdc20c.css.map": "/ur-mom/static/css/main.03cdc20c.css.map",
+    "main.64ead28a.js.map": "/ur-mom/static/js/main.64ead28a.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/ur-mom/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cdc20c.css",
+    "static/js/main.64ead28a.js"
+  ]
+}
